@@ -33,7 +33,6 @@
 
 ---
 <img align="left" alt="Alexivaner's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexivaner&show_icons=true&hide_border=true&theme=radical" />
-<img align="left" alt="Alexivaner's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexivaner&layout=compact" />
-
+<br>
 Profile readme.md template sources:<br>
 codeSTACKr

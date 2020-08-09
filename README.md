@@ -8,10 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://alexivaner.github.io)
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCUHP9DeewYaRSlcZAHBEgnw)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ivan-surya-hutomo-b5746713a)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ivan.hutomo/)
+[<img align="left" alt="alexivaner | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://alexivaner.github.io)
+[<img align="left" alt="alexivaner | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCUHP9DeewYaRSlcZAHBEgnw)
+[<img align="left" alt="alexivaner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ivan-surya-hutomo-b5746713a)
+[<img align="left" alt="alexivaner | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ivan.hutomo/)
 
 <br />
 
@@ -32,7 +32,8 @@
 
 
 ---
-<img align="left" alt="Alexivaner's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexivaner&show_icons=true&hide_border=true" />
+<img align="left" alt="Alexivaner's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexivaner&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Alexivaner's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexivaner&layout=compact" />
 
 Profile readme.md template sources:<br>
 codeSTACKr

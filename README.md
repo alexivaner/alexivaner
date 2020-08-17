@@ -32,4 +32,4 @@
 
 
 ---
-<img align="left" alt="Alexivaner's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexivaner&show_icons=true" />
+<img align="left" alt="Alexivaner's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexivaner&show_icons=true&theme=radical" />

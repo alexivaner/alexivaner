@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, and Research Assistant
 - 🔭 I’m currently working on a NiLO (Natural Inteligence of Learning Laboratory) as student's research assistant
 - 🌱 I’m currently study at [EECS National Chiao Tung University](https://eecsigp.nctu.edu.tw/)
-- 🥅 2020 Goals: Contribute more on GitHub Repository
+- 🥅 2021 Goals: Contribute more on GitHub Repository
 - ⚡ Fun fact: I love to learn a new things and improving myself.
 
 ### Connect with me:

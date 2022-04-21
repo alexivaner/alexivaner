@@ -1,8 +1,8 @@
 # Hi there, I'm Ivan - aka alexivaner👋
 
 ## I'm a Student, Developer, and Research Assistant
-- 🔭 I’m currently working on a NiLO (Nature Intelligence of Learning Laboratory) as student's research assistant
-- 🌱 I’m currently study at [EECS National Chiao Tung University](https://eecsigp.nctu.edu.tw/)
+- 🔭 I’m currently working on Octon Inc and in charge of Telemedicine Service
+- 🌱 I’m mainly focused on frontend developing but also would moving toward full-stack engineer
 - 🥅 2021 Goals: Contribute more on GitHub Repository
 - ⚡ Fun fact: I love to learn a new things and improving myself.
 

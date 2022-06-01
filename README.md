@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on Octon Inc and in charge of Telemedicine Service
 - 🌱 I’m mainly focused on frontend developing but also would moving toward full-stack engineer
 - 🥅 2022 Goals: Contribute more on GitHub Repository and StackOverFlow
-- ⚡ Fun fact: I love to learn a new things and improving myself.
 
 ### Connect with me:
 

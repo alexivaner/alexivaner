@@ -1,6 +1,5 @@
 # Hi there, I'm Ivan - aka alexivaner👋
 
-## I'm a Student, Developer, and Research Assistant
 - 🔭 I’m currently working on Octon Inc and in charge of Telemedicine Service
 - 🌱 I’m mainly focused on frontend developing but also would moving toward full-stack engineer
 - 🥅 2022 Goals: Contribute more on GitHub Repository and StackOverFlow
